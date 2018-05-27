@@ -3,7 +3,7 @@ Created on 14 Apr 2018
 
 @author: laxminarayan rao
 '''
-from asyncore import write
+
 '''
 x= open('a1.doc','w')
 x.write('this file is i schech how the data \n')
@@ -16,6 +16,7 @@ print x
 
 '''
 ------------------------------------
+
 f1 =open('filehandeling1.txt','w')
 f1.write('python is simple' )
 f1.write('it is easy to learn')
@@ -23,6 +24,7 @@ f1.write('python is a scripting language' )
 f1.write('python needs lot of practice' )
 f1.close()
 print f1, 'is created'
+
 --------------------------------------
 '''
 '''
