@@ -1,0 +1,69 @@
+implicit data types 
+assining operators 
+
+no braces and key words in python in building a block , it follows  only space indentation 
+
+need to prac more on control statements , if ,else   and nested if else
+			nested if else-- how to structure the " suit "
+					Doubts :::
+				*******************
+Q => how to count number of  log inn attempted ??
+Q => how to create a log inn script using string validation ??
+
+---- file handling questions:
+when i re run (trigger) the same script  its not appending in the original file !!
+on IDL after creating file on run time append the same file ??
+
+read		--->reads whole file and returns in  " STRING " format 
+read of n	--->
+readline    --->reads whole file and returns in " LIST " format 
+readlines 	--->
+
+how to load a file in to script of log inn ( file contains usernames and passwords ) !!!
+
+Q=> how to right replace using looping ??
+Q=> Write a python script accept a string count no.of vowels,no.of consonanats,
+no.of digits and no.of special characters??
+
+IMPORT OS
+OS.SYSTEM('CLS')
+ # day 10 video need to start prac again from day 10 
+ 
+ ===>>>READ !!
+ 
+ read(n): it reads n bytes from a file.
+ readline(n): it reads current line from file.
+ readlines(): it reads all the lines in the file and returns in list format.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
